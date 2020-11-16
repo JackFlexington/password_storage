@@ -1,0 +1,9 @@
+__pycache__
+build
+dist
+Include
+Lib
+Scripts
+passwordstorage.spec
+pyvenv.cfg
+vault.db
