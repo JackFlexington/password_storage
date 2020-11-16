@@ -1,6 +1,8 @@
 # Password Storage
-A graphical user interface made with tkinter
-Release v0.1 "BETA" for use-case testing.
+Graphical User Interface made with tkinter... Database management is handled via SQLite.
+
+## Release
+v0.1 "BETA" for use-case testing.
 
 ## What you'll need to do in order to run these programs
 1. Clone Repository to local machine
