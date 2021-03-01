@@ -17,6 +17,7 @@ v0.1 "BETA" for use-case testing.
 
 ## Known Issues
 ### Logic Errors
-1. UNIQUE row id gets removed in the SQLite database via GUI button "Remove Entry".
+~~1. UNIQUE row id gets removed in the SQLite database via GUI button "Remove Entry".
     * Primary issue: When attempting to add new rows AFTER removing an existing one, the database chokes due to row ID not being UNIQUE. 
-      * Row ID is currently getting determined based on the number of rows shown in the GUI display window.
+      * Row ID is currently getting determined based on the number of rows shown in the GUI display window.~~
+  * Corrected above issue.
