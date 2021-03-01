@@ -81,7 +81,7 @@ def search_entry():
 
 def new_entry():
     print("new_entry")
-    elementcnt = 0
+    elementcnt = 1
     for row in tv.get_children():
         elementcnt = elementcnt + 1
     
